@@ -1,9 +1,9 @@
 Hello World!
 
-'''python
+```python
 print('Hello World!')
-'''
+```
 
-'''js
+```js
 console.log('Hello World!')
-'''
+```
